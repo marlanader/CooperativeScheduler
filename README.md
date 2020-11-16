@@ -4,5 +4,6 @@ This project was developed by Marla Ebeid, Omar Helmy & Shireen Afify using Keil
 2- Have 2 Tasks only A and B with priorities 3 and 4 respectively ReRunMe(3,3,1) and ReRunMe(1,4,2);
 These two applications were tested and worked correctly. 
 
-#How to run the code:
+How to run the code:
+
 Download Renode and enter this command: s @scripts/single-node/stm32f4_discovery.resc , the scheduler will be displayed 
