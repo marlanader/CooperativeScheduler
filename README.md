@@ -12,4 +12,5 @@ These two applications were tested and worked correctly.
 How to run the code:
 
 Download keil uVision and create a new project then add the main.c file to it and then run it
+
 Download Renode (search for the path of the stm32f4_discovery.resc) and enter this command: s @scripts/single-node/stm32f4_discovery.resc , the scheduler will be displayed 
