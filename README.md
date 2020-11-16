@@ -4,6 +4,7 @@ This project was developed by Marla Ebeid, Omar Helmy & Shireen Afify using Keil
 1- Have 4 tasks A,B,C,D, ReRunMe(13,4,1); ReRunMe(7,1,2);ReRunMe(4,2,3);ReRunMe(11,3,4); 
 
 2- Have 2 Tasks only A and B with priorities 3 and 4 respectively ReRunMe(3,3,1) and ReRunMe(1,4,2);
+
 These two applications were tested and worked correctly. 
 
 How to run the code:
